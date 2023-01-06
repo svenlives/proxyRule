@@ -6,6 +6,12 @@ rules:
  - 'DOMAIN-SUFFIX,jd.com,一元机场'
  - 'DOMAIN-SUFFIX,taobao.com,一元机场'
  - 'DOMAIN-SUFFIX,bilibili.com,一元机场'
+ 
+  - 'DOMAIN-SUFFIX,zhihu.com,EFCloud'
+ - 'DOMAIN-SUFFIX,jd.com,EFCloud'
+ - 'DOMAIN-SUFFIX,taobao.com,EFCloud'
+ - 'DOMAIN-SUFFIX,bilibili.com,EFCloud'
+ 
  - 'DOMAIN-SUFFIX,khalidlife.com,DIRECT'
  - 'DOMAIN-SUFFIX,asuscomm.com,DIRECT'
  - 'DOMAIN-SUFFIX,aliyuncs.com,DIRECT'
