@@ -1,0 +1,11 @@
+name: 公司规则覆写
+desc: 添加公司规则
+
+rules:
+ - 'DOMAIN-SUFFIX,zhihu.com,一元机场'
+ - 'DOMAIN-SUFFIX,jd.com,一元机场'
+ - 'DOMAIN-SUFFIX,taobao.com,一元机场'
+ - 'DOMAIN-SUFFIX,bilibili.com,一元机场'
+ - 'DOMAIN-SUFFIX,khalidlife.com,DIRECT'
+ - 'DOMAIN-SUFFIX,asuscomm.com,DIRECT'
+ - 'DOMAIN-SUFFIX,aliyuncs.com,DIRECT'
