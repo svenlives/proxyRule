@@ -7,7 +7,7 @@ rules:
  - 'DOMAIN-SUFFIX,taobao.com,一元机场'
  - 'DOMAIN-SUFFIX,bilibili.com,一元机场'
  
-  - 'DOMAIN-SUFFIX,zhihu.com,EFCloud'
+ - 'DOMAIN-SUFFIX,zhihu.com,EFCloud'
  - 'DOMAIN-SUFFIX,jd.com,EFCloud'
  - 'DOMAIN-SUFFIX,taobao.com,EFCloud'
  - 'DOMAIN-SUFFIX,bilibili.com,EFCloud'
