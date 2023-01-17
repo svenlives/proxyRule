@@ -13,7 +13,8 @@ rules:
  - 'DOMAIN-SUFFIX,bilibili.com,EFCloud'
  - 'DOMAIN-SUFFIX,mafengwo.com,EFCloud'
  - 'DOMAIN-SUFFIX,ctrip.com,EFCloud'
-
+ - 'DOMAIN-SUFFIX,c-ctrip.com,EFCloud'
+ - 'DOMAIN-SUFFIX,tripcdn.cn,EFCloud'
  
  - 'DOMAIN-SUFFIX,khalidlife.com,DIRECT'
  - 'DOMAIN-SUFFIX,asuscomm.com,DIRECT'
