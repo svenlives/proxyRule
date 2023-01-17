@@ -11,6 +11,7 @@ rules:
  - 'DOMAIN-SUFFIX,jd.com,EFCloud'
  - 'DOMAIN-SUFFIX,taobao.com,EFCloud'
  - 'DOMAIN-SUFFIX,bilibili.com,EFCloud'
+ - 'DOMAIN-SUFFIX,mafengwo.com,EFCloud'
  
  - 'DOMAIN-SUFFIX,khalidlife.com,DIRECT'
  - 'DOMAIN-SUFFIX,asuscomm.com,DIRECT'
