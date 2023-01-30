@@ -15,6 +15,9 @@ rules:
  - 'DOMAIN-SUFFIX,ctrip.com,EFCloud'
  - 'DOMAIN-SUFFIX,c-ctrip.com,EFCloud'
  - 'DOMAIN-SUFFIX,tripcdn.cn,EFCloud'
+ - 'DOMAIN-SUFFIX,sina.com.cn,EFCloud'
+ - 'DOMAIN-SUFFIX,sina.com,EFCloud'
+ - 'DOMAIN-SUFFIX,xiaohongshu.com,EFCloud'
  
  - 'DOMAIN-SUFFIX,khalidlife.com,DIRECT'
  - 'DOMAIN-SUFFIX,asuscomm.com,DIRECT'
