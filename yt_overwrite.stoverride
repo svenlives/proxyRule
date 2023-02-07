@@ -18,6 +18,9 @@ rules:
  - 'DOMAIN-SUFFIX,sina.com.cn,EFCloud'
  - 'DOMAIN-SUFFIX,sina.com,EFCloud'
  - 'DOMAIN-SUFFIX,xiaohongshu.com,EFCloud'
+ - 'DOMAIN-SUFFIX,openai.com,EFCloud'
+
+
  
  - 'DOMAIN-SUFFIX,khalidlife.com,DIRECT'
  - 'DOMAIN-SUFFIX,asuscomm.com,DIRECT'
