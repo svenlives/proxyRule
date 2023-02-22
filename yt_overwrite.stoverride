@@ -19,6 +19,21 @@ rules:
  - 'DOMAIN-SUFFIX,sina.com,EFCloud'
  - 'DOMAIN-SUFFIX,xiaohongshu.com,EFCloud'
  - 'DOMAIN-SUFFIX,openai.com,EFCloud'
+ - 'DOMAIN-SUFFIX,weibo.com,EFCloud'
+ 
+ - 'DOMAIN-SUFFIX,zhihu.com,FCCloud'
+ - 'DOMAIN-SUFFIX,jd.com,FCCloud'
+ - 'DOMAIN-SUFFIX,taobao.com,FCCloud'
+ - 'DOMAIN-SUFFIX,bilibili.com,FCCloud'
+ - 'DOMAIN-SUFFIX,mafengwo.com,FCCloud'
+ - 'DOMAIN-SUFFIX,ctrip.com,FCCloud'
+ - 'DOMAIN-SUFFIX,c-ctrip.com,FCCloud'
+ - 'DOMAIN-SUFFIX,tripcdn.cn,FCCloud'
+ - 'DOMAIN-SUFFIX,sina.com.cn,FCCloud'
+ - 'DOMAIN-SUFFIX,sina.com,FCCloud'
+ - 'DOMAIN-SUFFIX,xiaohongshu.com,FCCloud'
+ - 'DOMAIN-SUFFIX,openai.com,FCCloud'
+ - 'DOMAIN-SUFFIX,weibo.com,FCCloud'
 
 
  
